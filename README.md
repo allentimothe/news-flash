@@ -12,7 +12,7 @@ A minimalisticly themed display for recent updates from the NY Times.
 
 ## 📸 Screenshots
 ![wireframe](./img/wireframe.png)
-![live](./img/current.png)
+![live](./img/Current.png)
 
 ## 🎬 Getting Started
 [Click](https://news-flash.vercel.app/) here to see the live app! 
