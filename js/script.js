@@ -54,6 +54,8 @@ function getData(detailURL) {
     });
  }
 
+
+ //XTML Error when trying to access to Modal
  function render() {
     if(detailData) {
         $byline.text(detailData.results[0].byline).css('text-transform', 'capitalize');
