@@ -1,4 +1,4 @@
-const BASE_URL = 'http://api.nytimes.com/svc/topstories/v2/us.json?api-key=OiyxqfJgK3GU5NAC3qT9FxGyN5kJYLQf';
+const BASE_URL = 'https://api.nytimes.com/svc/topstories/v2/us.json?api-key=OiyxqfJgK3GU5NAC3qT9FxGyN5kJYLQf';
 
 let newsData, detailData;
 
